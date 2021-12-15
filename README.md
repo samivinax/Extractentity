@@ -1,7 +1,7 @@
 # Extractentity
 Questionanswering module
 
-Comman to run the script .
+Command to launch the api .
 
   python extract.py
 
